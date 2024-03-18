@@ -47,7 +47,7 @@ function cloakPage(selectedCloak) {
         // Save selected cloak to local storage
         localStorage.setItem('equinox||cloak', selectedCloak);
     } else {
-        document.title = "Equinox V1";
+        document.title = "New Tab";
 
         const defaultFaviconPath = '/assets/favicon.ico';
         const defaultFavicon = document.querySelector('link[rel="icon"]');
