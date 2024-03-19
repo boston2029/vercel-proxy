@@ -13,14 +13,14 @@ window.addEventListener("DOMContentLoaded", () => {
 	function updateText() {
 		const creationInfo = document.getElementById("creation-info");
 		const facts = [
-			"Equinox was created in January 2024.",
-			"The ads you see have a purpose!",
-			"Equinox is updated very frequently.",
-			"Happy browsing!",
-			"Experienced downtime? Look at our Discord server for status updates.",
-			"https://discord.gg/H7JqRwykhk",
-			"Customize your experience in settings!",
-			"We have a lot of popular games and apps to choose from.",
+			"Equinox hates lgbt minorities.",
+			"You don't have a purpose.",
+			"People are dying frequently.",
+			"Sad browsing.",
+			"Experienced downtime? ok.",
+			"https://discord.gg/example.com",
+			"Customize your noose.",
+			"You suck.",
 			"Have you ever played Monkey Mart? It's so fun!",
 			"Equinox was made by wrnd."
 		];
@@ -37,7 +37,7 @@ window.addEventListener("DOMContentLoaded", () => {
 		█████╗░░██║██╗██║██║░░░██║██║██╔██╗██║██║░░██║░╚███╔╝░
 		██╔══╝░░╚██████╔╝██║░░░██║██║██║╚████║██║░░██║░██╔██╗░
 		███████╗░╚═██╔═╝░╚██████╔╝██║██║░╚███║╚█████╔╝██╔╝╚██╗
-		╚══════╝░░░╚═╝░░░░╚═════╝░╚═╝╚═╝░░╚══╝░╚════╝░╚═╝░░╚═╝\n
+		╚══════╝░░░╚═╝░░░░╚═════╝░╚═╝╚═╝░░╚══╝░╚════╝░╚═╝░░╚═╝ IS A FAGGOT\n
 							Version 1.35`);
 });
 
